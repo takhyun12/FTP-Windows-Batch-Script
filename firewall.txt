@@ -1,0 +1,7 @@
+netsh firewall set portopening TCP 20 "FTP_DATA" enable
+netsh firewall set portopening TCP 21 "FTP" enable
+
+
+
+netsh firewall set portopening TCP 20 "FTP_DATA" disable
+netsh firewall set portopening TCP 21 "FTP" disable
