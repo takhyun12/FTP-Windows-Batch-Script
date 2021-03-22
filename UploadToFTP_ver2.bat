@@ -2,7 +2,7 @@
 SETLOCAL EnableExtensions
 
 REM Connection information:
-SET Server=50.1.2.90
+SET Server=1.1.2.90
 SET usrname=anonymous
 SET pssword=
 
